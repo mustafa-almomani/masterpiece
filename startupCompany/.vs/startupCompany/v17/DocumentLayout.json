@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\contacttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\contacttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\customermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\customermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\startupcompany.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\startupcompany.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\employeemeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\employeemeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\clientmeetingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\clientmeetingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\models\\clientmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\models\\clientmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\scheduledmeetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\scheduledmeetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\taskescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\taskescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\edittaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\edittaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\editorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\editorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\addtaskforemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\addtaskforemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\taskesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\taskesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\models\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\models\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\scheduledmeetingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\scheduledmeetingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\addemployeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\addemployeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\employeereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\employeereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\regesterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\regesterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\editemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\editemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\signupbygoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\signupbygoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\servicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\servicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\passwordhashermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\passwordhashermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\startupcompany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\startupcompany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\new folder\\masterpiece\\startupcompany\\startupcompany\\dto\\getorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E37EAF-144D-4908-9E57-1DA95095ADBB}|startupCompany\\startupCompany.csproj|solutionrelative:startupcompany\\dto\\getorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContacttController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\ContacttController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\ContacttController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\ContacttController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\ContacttController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:16:21.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "startupCompany.http",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\startupCompany.http",
+              "RelativeDocumentMoniker": "startupCompany\\startupCompany.http",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\startupCompany.http",
+              "RelativeToolTip": "startupCompany\\startupCompany.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-06T21:53:41.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\appsettings.json",
+              "RelativeDocumentMoniker": "startupCompany\\appsettings.json",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\appsettings.json",
+              "RelativeToolTip": "startupCompany\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T15:07:18.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\CustomerManagementController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\CustomerManagementController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\CustomerManagementController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\CustomerManagementController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAA9wGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:48:28.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Services\\EmailService.cs",
+              "RelativeToolTip": "startupCompany\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:28:57.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "meetingController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\meetingController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\meetingController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\meetingController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\meetingController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:15:16.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Program.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Program.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Program.cs",
+              "RelativeToolTip": "startupCompany\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:06:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clientmeetingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\clientmeetingDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\clientmeetingDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\clientmeetingDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\clientmeetingDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:18:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\EmailDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\EmailDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\EmailDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\EmailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:09:38.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientMeeting.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\ClientMeeting.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Models\\ClientMeeting.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\ClientMeeting.cs",
+              "RelativeToolTip": "startupCompany\\Models\\ClientMeeting.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:05:03.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "servicesController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\servicesController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\servicesController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\servicesController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\servicesController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:21:47.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "employeemeeting.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\employeemeeting.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\employeemeeting.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\employeemeeting.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\employeemeeting.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:43:13.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "startupCompany\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:06:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "contactController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\contactController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\contactController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\contactController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\contactController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:09:07.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduledMeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\ScheduledMeetingController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\ScheduledMeetingController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\ScheduledMeetingController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\ScheduledMeetingController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:00:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "taskesController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\taskesController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\taskesController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\taskesController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\taskesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwFoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:24:29.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "editorderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\editorderDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\editorderDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\editorderDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\editorderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:21:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "edittaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\edittaskDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\edittaskDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\edittaskDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\edittaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:02:00.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "addtaskforemployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\addtaskforemployeeDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\addtaskforemployeeDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\addtaskforemployeeDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\addtaskforemployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:42:39.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "taskesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\taskesDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\taskesDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\taskesDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\taskesDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:31:35.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Models\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\CustomerRequest.cs",
+              "RelativeToolTip": "startupCompany\\Models\\CustomerRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:18:10.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Controllers\\UserController.cs",
+              "RelativeToolTip": "startupCompany\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAqwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:08:12.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduledMeetingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\ScheduledMeetingDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\ScheduledMeetingDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\ScheduledMeetingDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\ScheduledMeetingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:03:19.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\Employee.cs",
+              "RelativeToolTip": "startupCompany\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:21:22.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddEmployeesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\AddEmployeesDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\AddEmployeesDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\AddEmployeesDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\AddEmployeesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:27:03.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "employeereportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\employeereportDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\employeereportDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\employeereportDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\employeereportDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:23:01.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "regesterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\regesterDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\regesterDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\regesterDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\regesterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:39:49.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "orderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\orderDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\orderDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\orderDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\orderDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:38:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "editemployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\editemployeeDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\editemployeeDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\editemployeeDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\editemployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:32:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "contactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\contactDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\contactDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\contactDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\contactDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:13:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "usersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\usersDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\usersDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\usersDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\usersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:37:58.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\TokenGenerator.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\TokenGenerator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:00:52.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SignUpByGoogleDto.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\SignUpByGoogleDto.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\SignUpByGoogleDto.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\SignUpByGoogleDto.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\SignUpByGoogleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:45:31.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "servicesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\servicesDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\servicesDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\servicesDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\servicesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:48:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "edituserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\edituserDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\edituserDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\edituserDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\edituserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:43:34.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "getorderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\getorderDTO.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\getorderDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\getorderDTO.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\getorderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:54:22.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\Service.cs",
+              "RelativeToolTip": "startupCompany\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:48:03.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:07:38.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "passwordHasherMethod.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\passwordHasherMethod.cs",
+              "RelativeDocumentMoniker": "startupCompany\\DTO\\passwordHasherMethod.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\DTO\\passwordHasherMethod.cs",
+              "RelativeToolTip": "startupCompany\\DTO\\passwordHasherMethod.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:39:50.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "startupCompany\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "startupCompany\\Models\\ContactMessage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:12:49.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "startupCompany.csproj",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\startupCompany.csproj",
+              "RelativeDocumentMoniker": "startupCompany\\startupCompany.csproj",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\New folder\\masterpiece\\startupCompany\\startupCompany\\startupCompany.csproj",
+              "RelativeToolTip": "startupCompany\\startupCompany.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T11:39:50.578Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 906,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
